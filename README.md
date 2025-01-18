@@ -1,4 +1,4 @@
-# Domain Generalized Medical Landmark Detection via Robust Boundary-aware Pre-training (AAAI-2025)
+# Domain Generalized Medical Landmark Detection via Robust Boundary-aware Pre-training (AAAI-2025 Oral)
 
 ## Introduction
 In recent years, deep learning has made significant advances in the field of automated medical landmark detection. However, most studies focus on single-center scenarios or domain adaptation. The acquisition of multi-center data presents challenges including privacy concerns and the high costs of data collection and annotation. To address these challenges, we propose a novel framework for domain-generalized medical landmark detection, leveraging single-center data to enhance domain generalization capabilities.
