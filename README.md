@@ -56,7 +56,7 @@ To cite our work, please use the following format:
 ```
 @inproceedings{gong2025domain,
   title={Domain Generalized Medical Landmark Detection via Robust Boundary-aware Pre-training},
-  author={Gong, Haifan and Yu, Lu, and Wan, Xiang and Li, Haofeng},
+  author={Gong, Haifan and Yu, Lu and Wan, Xiang and Li, Haofeng},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   pages={1--9},
   year={2025}
