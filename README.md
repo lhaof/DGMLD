@@ -9,6 +9,10 @@ In recent years, deep learning has made significant advances in the field of aut
 ## Methodology
 Our approach utilizes public medical segmentation datasets to pre-train a model focused on regions critical for landmark detection. We introduce a novel boundary-aware pre-training strategy along with a mixing loss function to enhance robustness and generalization.
 
+
+## Data
+[Huggingface](https://huggingface.co/datasets/haifan-gong/LFC)
+
 ## Results
 
 ![Results](img/results.jpg)
